@@ -52,8 +52,5 @@ This project presents the development of a simple humanoid walking robot using f
 
 ---
 
-# Author
-*Your Name*  
-*Your University / Course / ID (if applicable)*  
 
  Creat By ENG: Majd Omar Bagazi
